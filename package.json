@@ -1,6 +1,6 @@
 {
   "name": "library-demo-kyok",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/index.js",
   "author": "kyok01 <kazutakayokoils@gmail.com>",
   "license": "MIT",
